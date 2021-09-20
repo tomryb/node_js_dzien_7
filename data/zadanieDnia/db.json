@@ -1,0 +1,27 @@
+[
+  {
+    "id": 0,
+    "text": "wstać",
+    "done": true
+  },
+  {
+    "id": 1,
+    "text": "wypić kawę",
+    "done": true
+  },
+  {
+    "id": 2,
+    "text": "pograć na gitarze",
+    "done": false
+  },
+  {
+    "id": 3,
+    "text": "asdasd",
+    "done": false
+  },
+  {
+    "id": 4,
+    "text": "dddsd",
+    "done": false
+  }
+]
